@@ -1,0 +1,19 @@
+{
+  "name": "eid",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abo-eid2002/Eid-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abo-eid2002/Eid-npm/issues"
+  },
+  "homepage": "https://github.com/abo-eid2002/Eid-npm#readme"
+}
